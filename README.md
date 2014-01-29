@@ -1,4 +1,4 @@
 kxmehdi
 =======
 
-SPARQL plugin.
+SPARQL plugin for Neo4j
